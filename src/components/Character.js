@@ -7,6 +7,7 @@ const CharacterCard = styled.div`
     box-shadow: rgba(252, 249, 232, 0.3) 0px 3px 8px;
     border: 5px solid black;
     width: 50%;
+    padding-bottom: 5px;
     margin: 40px auto;
     transition: transform .3s ease-in-out;
     &:hover {
@@ -16,6 +17,7 @@ const CharacterCard = styled.div`
 `
 const Name = styled.h1`
     font-size: 2em;
+    color: #e4e3e3;
     
     
 `

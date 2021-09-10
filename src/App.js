@@ -35,7 +35,7 @@ const App = () => {
   return (
     <div className="App">
       <Background>
-      <Header className="Header">Characters</Header>
+      <Header className="Header">Star Wars Characters</Header>
         <Character characters={characters} />
       </Background>
     </div>
